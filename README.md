@@ -21,10 +21,3 @@ Ola! Eu sou Danilo Ferreira ✌️
 
 </div><br/>
 
-## Projetos que atuei ou estou atuando no momento!
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danfs90&repo=telegram-bot-chatgpt)](https://github.com/Danfs90/telegram-bot-chatgpt)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danfs90&repo=EditorHTML-CSharp---Estudos)](https://github.com/Danfs90/EditorHTML-CSharp---Estudos)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danfs90&repo=curso-django-projeto1)](https://github.com/Danfs90/curso-django-projeto1)
