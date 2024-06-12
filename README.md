@@ -15,7 +15,6 @@ Ola! Eu sou Danilo Ferreira ✌️
     <img align="center" alt="htm15" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>  
     <img align="center" alt="htm15" src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4"/>  
     <img align="center" alt="htm15" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>  
-    <img align="center" alt="htm15" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>      
     <img align="center" alt="htm15" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
 </div><br/>
 
